@@ -54,11 +54,11 @@ print(f"Received {data!r}")
 ## OUTPUT:
 ### echo-server.py
 
-![server](https://github.com/Skanthasishanth/Ethicka-Hacking-Techniques---19CS417-/assets/118298456/401bceb6-45a9-48b7-a922-3b2cb9bce0be)
+![exp1server](https://github.com/Skanthasishanth/Ethicka-Hacking-Techniques---19CS417-/assets/118298456/541a8afe-b8f8-4db1-ac47-edcc624658cd)
 
 ### echo-client.py
 
-![client](https://github.com/Skanthasishanth/Ethicka-Hacking-Techniques---19CS417-/assets/118298456/2cb7fa4f-77d6-4e42-92ea-c0ef49798769)
+![exp1client](https://github.com/Skanthasishanth/Ethicka-Hacking-Techniques---19CS417-/assets/118298456/b5e528fb-a33b-4b0c-b8aa-616626758989)
 
 
 ## RESULT:
